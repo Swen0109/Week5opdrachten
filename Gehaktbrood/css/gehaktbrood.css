@@ -1,0 +1,37 @@
+body{
+	background-color: #def6ed;
+	width: 900px;
+	margin: 0 auto;
+	border-radius: 4px;
+}
+img{
+	margin-left: 25px;
+}
+
+li{
+	margin: 10px 26px;
+}
+
+title{
+	font-size: 36px 36px;
+}
+
+h1{
+	margin: 24px 32px;
+}
+
+h2{
+	margin: 32px 32px;
+}
+
+h3{
+	margin: 32px 32px;
+}
+
+li{
+	font-size: 20px 26px;
+}
+
+#bruschetta{
+	margin: 40px;
+}
